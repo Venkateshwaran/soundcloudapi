@@ -1,0 +1,19 @@
+{
+  "name": "simplesoundcloudapiusage",
+  "version": "1.0.0",
+  "description": "Soundcloud API Using NodeJS/ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "SoundCloudAPI",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Venkateshwaran Selvaraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
